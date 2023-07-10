@@ -51,9 +51,6 @@ This is a dynamic website developed with HTML, CSS, and JavaScript. where users 
 - *Add new book*
 - *Contact Info*
 
-## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo ]()
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.

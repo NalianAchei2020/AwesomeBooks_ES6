@@ -1,6 +1,6 @@
+/* eslint-disable max-classes-per-file */
 const bookTitle = document.getElementById('bookTitle');
 const bookAuthor = document.getElementById('bookauthor');
-
 
 // Define the Book class
 class Book {
@@ -69,6 +69,6 @@ export const addBook = () => {
     bookCollection.addBook(title, author);
     bookTitle.value = '';
     bookAuthor.value = '';
-    document.getElementById('successMsg').innerHTML  = "You added a new book";
+    document.getElementById('successMsg').innerHTML = 'You added a new book';
   }
-}
+};

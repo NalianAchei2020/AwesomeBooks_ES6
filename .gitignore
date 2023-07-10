@@ -1,7 +1,3 @@
-# dependencies
-/node_modules
+node_modules
 
-# vscode
-/.vscode
-#test
-test.md
+.vscode
